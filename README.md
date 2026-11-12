@@ -2,5 +2,6 @@
 
 Learning basic mcp thing and user interface
 
-
-<!-- last updated: 2026-11-12 -->
+<!-- daily-quote-start -->
+> "Start where you are. Use what you have. Do what you can." - Arthur Ashe
+<!-- daily-quote-end -->
