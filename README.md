@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "Act as if what you do makes a difference. It does." - William James
+> “Courage is like a muscle. We strengthen it by use.” - Ruth Gordon
 <!-- daily-quote-end -->
