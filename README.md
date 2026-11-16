@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "Act as if what you do makes a difference. It does." - William James
+> "What we call the beginning is often the end. And to make an end is to make a beginning." - T. S. Eliot
 <!-- daily-quote-end -->
