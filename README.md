@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "What we call the beginning is often the end. And to make an end is to make a beginning." - T. S. Eliot
+> "Do not wait to strike till the iron is hot; but make it hot by striking." - William Butler Yeats
 <!-- daily-quote-end -->
