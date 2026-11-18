@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "Do not wait to strike till the iron is hot; but make it hot by striking." - William Butler Yeats
+> "Act as if what you do makes a difference. It does." - William James
 <!-- daily-quote-end -->
