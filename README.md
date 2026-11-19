@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "Act as if what you do makes a difference. It does." - William James
+> "Do what you can, with what you have, where you are." - Theodore Roosevelt
 <!-- daily-quote-end -->
