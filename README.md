@@ -3,5 +3,5 @@
 Learning basic mcp thing and user interface
 
 <!-- daily-quote-start -->
-> "The best way to predict the future is to create it." - Peter Drucker
+> "Success is liking yourself, liking what you do, and liking how you do it." - Maya Angelou
 <!-- daily-quote-end -->
